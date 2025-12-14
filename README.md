@@ -17,7 +17,7 @@ I am a Master’s student in Chemistry at Govt. College Women University Sialkot
 ## 📫 Contact
 - Email: ayeshaahmad4647@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ayesha-ahmad-42aa45380  
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/ayeshaahmad167
 
 ## ✨ Interests
 I enjoy bridging science and communication by simplifying complex chemical concepts through writing and creative content.
